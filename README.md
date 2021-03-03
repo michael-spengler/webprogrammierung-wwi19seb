@@ -1,6 +1,6 @@
 # Webprogrammierung
 
-## Client Side 
+## Client Code 
 ### Basics
 HTML, CSS, JavaScript
 
